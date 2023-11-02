@@ -1,1 +1,4 @@
+[submodule "calculate-area"]
+	path = calculate-area
+	url = https://github.com/dikiogres/gradle-luas
 
