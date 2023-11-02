@@ -8,3 +8,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/dikiogres/android-calculator-java
+[submodule "crud-sqlite"]
+	path = crud-sqlite
+	url = https://github.com/dikiogres/android-crud-sqlite
