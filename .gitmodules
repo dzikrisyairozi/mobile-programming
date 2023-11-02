@@ -11,3 +11,6 @@
 [submodule "crud-sqlite"]
 	path = crud-sqlite
 	url = https://github.com/dikiogres/android-crud-sqlite
+[submodule "grading-form"]
+	path = grading-form
+	url = https://github.com/dikiogres/android-grade-form-converter
