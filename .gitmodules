@@ -17,3 +17,6 @@
 [submodule "contact"]
 	path = contact
 	url = https://github.com/dikiogres/android-contact-app
+[submodule "google-map"]
+	path = google-map
+	url = https://github.com/dikiogres/android-google-map
