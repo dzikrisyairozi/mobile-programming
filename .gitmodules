@@ -23,3 +23,6 @@
 [submodule "camera-app"]
 	path = camera-app
 	url = https://github.com/dikiogres/camera-app
+[submodule "json-parser"]
+	path = json-parser
+	url = https://github.com/dikiogres/json-parser
