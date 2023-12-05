@@ -20,3 +20,6 @@
 [submodule "google-map"]
 	path = google-map
 	url = https://github.com/dikiogres/android-google-map
+[submodule "camera-app"]
+	path = camera-app
+	url = https://github.com/dikiogres/camera-app
